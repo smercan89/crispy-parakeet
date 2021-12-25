@@ -1,0 +1,6 @@
+$ ssh-keygen -p -f ~/.ssh/id_ed25519
+> Enter old passphrase: [SAMARZU]
+> Key has comment 'sadikmercan89@icloud.com'
+> Enter new passphrase (empty for no passphrase): [ARZUSAM]
+> Enter same passphrase again: [ARZUSAM]
+> Your identification has been saved with the new passphrase.
